@@ -1,5 +1,10 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Week 7 mini project
+This mini project can take any text you type in. And follow the instruction to give the program a key. It will output you the encryption text as well as the decryption text.
+# How to run
+* cargo run
+* type some text
+* give a key
+
 
 ## References
 
